@@ -1,5 +1,9 @@
 # About this version
-This is fixed 64 bit verion of paping originally made by Mike Lovell https://github.com/9minds/paping/tree/master
+This is fixed 64 bit version of paping originally made by Mike Lovell https://github.com/9minds/paping/tree/master
+
+# Instalation
+Download, drag and drop to C:\Users\Adminstrator  
+Replace Adminstrator with your user name
 
 # Example usage
 ```

@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is no longer maintained.**
+> Please use the modern rewrite: **[Paping-NG](https://github.com/arch3rek/Paping-NG)** – successor to paping, rewritten from scratch in C++.
+
+
 # About this version
 This is fixed 64 bit version of paping that was originally made by Mike Lovell https://github.com/9minds/paping/tree/master
 
